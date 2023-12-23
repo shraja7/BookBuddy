@@ -1,0 +1,12 @@
+/* HeroSection.css */
+.hero-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding-left: 25rem;
+}
+
+.hero-section {
+  text-align: center;
+}
